@@ -1,0 +1,26 @@
+{
+  "user": "Kaesa Lyrih",
+  "matkul": [
+    {
+      "category": "FIK 20212",
+      "shortName": "A12.66402-20212-6406",
+      "name": "[20212] INTERAKSI MANUSIA DAN KOMPUTER",
+      "idCourse": "99999",
+      "forum": [
+        {
+          "name": "Forum Pertemuan 1 tanggal: 01-03-2022",
+          "module": "99999",
+          "isRestricted": true,
+          "restrictMsg": "Avaible until....",
+          "discus": [
+            {
+              "name": "Inheriten",
+              "subscribe": true
+            }
+          ]
+        }
+      ]
+    },
+    {}
+  ]
+}

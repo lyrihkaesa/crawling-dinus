@@ -1,0 +1,28 @@
+{
+  "name": "crawling-kulino",
+  "version": "1.0.0",
+  "description": "Pengujian crawling kulino",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyrihkaesa/crawling-kulino.git"
+  },
+  "keywords": [
+    "kulino",
+    "puppeteer"
+  ],
+  "author": "Kaesa Lyrih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyrihkaesa/crawling-kulino/issues"
+  },
+  "homepage": "https://github.com/lyrihkaesa/crawling-kulino#readme",
+  "dependencies": {
+    "puppeteer": "^14.1.0",
+    "xlsx": "^0.18.5"
+  }
+}

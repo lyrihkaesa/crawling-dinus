@@ -1,0 +1,1366 @@
+{
+  "user": "A12.2020.06476 - FARHAN TAQI ABDUSSALAM",
+  "matkuls": [
+    {
+      "category": "FIK 20212",
+      "shortName": "A12.66401-20212-6403-6404",
+      "fullName": "[20212] ANALISA DAN PERANCANGAN SISTEM ...",
+      "idMatkul": "5896",
+      "forums": [
+        {
+          "name": "Forum Pertemuan 1 tanggal: 01-03-2022",
+          "module": "222255",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 6 March 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 2 tanggal: 07-03-2022",
+          "module": "222263",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 12 March 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 3 tanggal: 08-03-2022",
+          "module": "222270",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 13 March 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 4 tanggal: 14-03-202",
+          "module": "222278",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 19 March 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 5 tanggal: 15-03-2022",
+          "module": "222285",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 20 March 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 6 tanggal: 21-03-2022",
+          "module": "222293",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 26 March 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 7 tanggal: 22-03-2022",
+          "module": "222300",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 27 March 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 8 tanggal: 28-03-2022",
+          "module": "222308",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 2 April 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 9 tanggal: 29-03-2022",
+          "module": "222315",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 3 April 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 10 tanggal: 04-04-2022",
+          "module": "222323",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 9 April 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 11 tanggal: 05-04-2022",
+          "module": "222330",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 10 April 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 12 tanggal: 11-04-2022",
+          "module": "222338",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 16 April 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 13 tanggal:  12-04-2022",
+          "module": "222345",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 17 April 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 14 tanggal: 14-04-2022",
+          "module": "222353",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 19 April 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 15 tanggal: 09-Mei-2022",
+          "module": "222361",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 14 May 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 16 tanggal: 10-05-2022",
+          "module": "222368",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 15 May 2022, 11:55 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 17 tanggal: 16-05-2022",
+          "module": "222375",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "PEMODELAN PROSES BISNIS DENGAN CLASS DIAGRAM",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 18 tanggal: 17-05-2022",
+          "module": "222382",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "PEMODELAN PROSES BISNIS DENGAN CLASS DIAGRAM",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 19 tanggal: DD-MM-YYYY",
+          "module": "222389",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 20 tanggal: DD-MM-YYYY",
+          "module": "222396",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 21 tanggal: DD-MM-YYYY",
+          "module": "222403",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 22 tanggal: DD-MM-YYYY",
+          "module": "222410",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 23 tanggal: DD-MM-YYYY",
+          "module": "222417",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 24 tanggal: DD-MM-YYYY",
+          "module": "222424",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 25 tanggal: DD-MM-YYYY",
+          "module": "222431",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 26 tanggal: DD-MM-YYYY",
+          "module": "222438",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 27 tanggal: DD-MM-YYYY",
+          "module": "222445",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 28 tanggal: DD-MM-YYYY",
+          "module": "222452",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        }
+      ]
+    },
+    {
+      "category": "FIK 20212",
+      "shortName": "U201701-20212-6605-6606",
+      "fullName": "[20212] Dasar Kewirausahaan",
+      "idMatkul": "7744",
+      "forums": [
+        {
+          "name": "Forum Pertemuan 1 tanggal: 01-03-2022",
+          "module": "301726",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Presensi Pertemuan 1",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 2 tanggal: 08-03-2022",
+          "module": "301734",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Ppresensi Pertemuan 2",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 3 tanggal: 15-03-2022",
+          "module": "301742",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Presensi Pertemuan 3",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 4 tanggal: 22-03-2022",
+          "module": "301752",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Presensi Pertemuan 4",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 5 tanggal:  28-03-2022",
+          "module": "301766",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Presensi Pertemuan 3",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 6 tanggal: 12-04-2022",
+          "module": "301775",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Presensi Pertemuan 6",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 7 tanggal: 12-04-2022",
+          "module": "301786",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Presensi Pertemuan 7",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 8 tanggal: 10-05-2022",
+          "module": "301802",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Presensi Pertemuan 9",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 9 tanggal: 17-05-2022",
+          "module": "301815",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "PresensiPertemuan 9",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 10 tanggal: DD-MM-YYYY",
+          "module": "301828",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 11 tanggal: DD-MM-YYYY",
+          "module": "301842",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 12 tanggal: DD-MM-YYYY",
+          "module": "301855",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 13 tanggal:  DD-MM-YYYY",
+          "module": "301868",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 14 tanggal: DD-MM-YYYY",
+          "module": "301879",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        }
+      ]
+    },
+    {
+      "category": "FIK 20212",
+      "shortName": "A12.66801-20212-6803-6804",
+      "fullName": "[20212] ETIKA PROFESI",
+      "idMatkul": "7334",
+      "forums": [
+        {
+          "name": "Forum Pertemuan 1 tanggal: 02-03-2022",
+          "module": "314543",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum diskusi, tanya jawab dan presensi kehadiran",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 2 tanggal: 09-03-2022",
+          "module": "258232",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum diskusi, Tanya Jawab dan Presensi Kehadiran",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 3 tanggal: 16-03-2022",
+          "module": "258250",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum diskusi, tanya jawab dan presensi kehadiran",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 4 tanggal: 23-03-2022",
+          "module": "258264",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum diskusi, tanya jawab dan presensi kehadiran",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 5 tanggal:  30-03-2022",
+          "module": "258278",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum diskusi, tanya jawab dan presensi kehadiran",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 6 tanggal: 06-04-2022",
+          "module": "258292",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum diskusi, tanya jawab dan presensi kehadiran",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 7 tanggal: 13-04-2022",
+          "module": "258304",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum diskusi, Tanya Jawab dan Presensi Kehadiran",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 8 tanggal: 11-05-2022",
+          "module": "258324",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum diskusi, tanya jawab dan absensi",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 9 tanggal: 18-05-2022",
+          "module": "258338",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum diskusi, komunikasi dan absensi",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 10 tanggal: DD-MM-YYYY",
+          "module": "258352",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 11 tanggal: DD-MM-YYYY",
+          "module": "258366",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 12 tanggal: DD-MM-YYYY",
+          "module": "258380",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 13 tanggal:  DD-MM-YYYY",
+          "module": "258394",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 14 tanggal: DD-MM-YYYY",
+          "module": "258404",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        }
+      ]
+    },
+    {
+      "category": "FIK 20212",
+      "shortName": "A12.66402-20212-6406",
+      "fullName": "[20212] INTERAKSI MANUSIA DAN KOMPUTER",
+      "idMatkul": "7773",
+      "forums": [
+        {
+          "name": "Forum Pertemuan 1 tanggal: 01-03-2022",
+          "module": "310256",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Forum Pengantar IMK",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 2 tanggal: 08-03-2022",
+          "module": "310264",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 8 March 2022, 9:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 3 tanggal: 15-03-2022",
+          "module": "310272",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 15 March 2022, 10:30 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 4 tanggal: 22-03-2022",
+          "module": "310279",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 22 March 2022, 10:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 5 tanggal:  29-03-2022",
+          "module": "310286",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 29 March 2022, 10:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 6 : Tanggal 050-03-2022",
+          "module": "341955",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 5 April 2022, 10:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 6 tanggal:  05-03-2022",
+          "module": "310293",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 5 April 2022, 10:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 7 tanggal: 12-04-2022",
+          "module": "310300",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 12 April 2022, 10:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Ujian Tengah Semester",
+          "module": "347735",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 19 April 2022, 8:40 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 8 tanggal: 10 Mei 2022",
+          "module": "310307",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 10 May 2022, 10:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 9 tanggal: 17-05-2022",
+          "module": "310314",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 17 May 2022, 10:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 10 tanggal: xxx",
+          "module": "310321",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 11 tanggal: xxx",
+          "module": "310328",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 12 tanggal: xxx",
+          "module": "310335",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 13 tanggal:  xxx",
+          "module": "310342",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 14 tanggal: xxx",
+          "module": "310349",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        }
+      ]
+    },
+    {
+      "category": "FIK 20212",
+      "shortName": "A12.66605-20212-6401-6402",
+      "fullName": "[20212] MANAJEMEN RANTAI PASOK",
+      "idMatkul": "7325",
+      "forums": [
+        {
+          "name": "Forum Pertemuan 1 - Jumat, 4 Maret 2022",
+          "module": "257356",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 5 March 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 2 - Jumat, 11 Maret 2022",
+          "module": "257364",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 12 March 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 3 - Jumat 18 Maret 2022",
+          "module": "257372",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 19 March 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 4 - Jumat, 25 Maret 2022",
+          "module": "257379",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 26 March 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 5 - Jumat, 1 April 2022",
+          "module": "257386",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 2 April 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 6 - Jumat, 8 April 2022",
+          "module": "257393",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 9 April 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 7 - Jumat, 15 April 2022",
+          "module": "257400",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 16 April 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 9 - Jumat 13 Mei 2022",
+          "module": "257415",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 15 May 2022, 3:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 10 - Jumat 20 Mei 2022",
+          "module": "257422",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available from 20 May 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 11 - Jumat 27 Mei 2022",
+          "module": "257429",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available from 27 May 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 12 - Jumat 3 Juni 2022",
+          "module": "257436",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available from 3 June 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 13 - Jumat 10 Juni 2022",
+          "module": "257443",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available from 10 June 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 14 - Jumat 17 Juni 2022",
+          "module": "257450",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available from 17 June 2022, 11:00 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan Minggu 15",
+          "module": "307198",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available from 24 June 2022, 11:00 AM",
+          "discus": []
+        }
+      ]
+    },
+    {
+      "category": "FIK 20212",
+      "shortName": "A12.66403-20212-6403",
+      "fullName": "[20212] PEMROGRAMAN BERORIENTASI OBYEK",
+      "idMatkul": "5898",
+      "forums": [
+        {
+          "name": "Forum Pertemuan 1 tanggal: 02 -MARET-2022",
+          "module": "222673",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Tentang PBO--BP Java",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 2 tanggal: 07-Maret-2022 (Pengganti tanggal 3 Maret 2022)",
+          "module": "222681",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Tentang JDK",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 3 tanggal: 09-Maret-2022",
+          "module": "222688",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "tipe data primitif dan non-primitif  di Java",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 4 tanggal: 10-Maret-2022",
+          "module": "222696",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Perbedaan jenis tipe data",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 5 tanggal: 16-Maret-2022",
+          "module": "222703",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Tentang Operator",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 6 tanggal: 17-Maret-2022",
+          "module": "222711",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "studi kasus operatos",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 7 tanggal: 23-Maret-2022",
+          "module": "222718",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Perbedaan antara if-else dan statement-switch",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 8 tanggal: 24-Maret-2022",
+          "module": "222726",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Input Keyboard",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 9 tanggal: 30-Maret-2022",
+          "module": "222733",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Tentang Class dan Object",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 10 tanggal: 31-Maret-2022",
+          "module": "222741",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "tentang setter dan getter",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 11 tanggal: 06-April-2022",
+          "module": "222748",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Tentang Inheritance",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 12 tanggal: 07-April-2022",
+          "module": "222756",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Fungsi This dan Super",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 13 tanggal:  13-April-2022",
+          "module": "222763",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Abstract Class",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 14 tanggal: 14-April-2022",
+          "module": "222771",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Javax.swing",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 15 tanggal: 11-05-2022",
+          "module": "222779",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Constructor",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 16 tanggal: 12-Mei-2022",
+          "module": "222786",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Connection",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 17 tanggal: 18-Mei-2022",
+          "module": "222793",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Interface",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 18 tanggal: 19-Mei-2022",
+          "module": "222800",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "perintah sql",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 19 tanggal: DD-MM-YYYY",
+          "module": "222807",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 20 tanggal: DD-MM-YYYY",
+          "module": "222814",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 21 tanggal: DD-MM-YYYY",
+          "module": "222821",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 22 tanggal: DD-MM-YYYY",
+          "module": "222828",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 23 tanggal: DD-MM-YYYY",
+          "module": "222835",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 24 tanggal: DD-MM-YYYY",
+          "module": "222842",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 25 tanggal: DD-MM-YYYY",
+          "module": "222849",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 26 tanggal: DD-MM-YYYY",
+          "module": "222856",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 27 tanggal: DD-MM-YYYY",
+          "module": "222863",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 28 tanggal: DD-MM-YYYY",
+          "module": "222870",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        }
+      ]
+    },
+    {
+      "category": "FIK 20212",
+      "shortName": "A12.66404-20212-6406",
+      "fullName": "[20212] PEMROGRAMAN WEB",
+      "idMatkul": "5914",
+      "forums": [
+        {
+          "name": "Forum Pertemuan 1 tanggal: 03-03-2022",
+          "module": "225399",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 10 March 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 2 tanggal: 04-03-2022",
+          "module": "225407",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 11 March 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 3 tanggal: 10-03-2022",
+          "module": "225414",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 17 March 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 4 tanggal: 11-03-2022",
+          "module": "225422",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 18 March 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 5 tanggal: 17-03-2022",
+          "module": "225429",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 24 March 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 6 tanggal: 18-03-2022",
+          "module": "225437",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 25 March 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 7 tanggal: 24-03-2022",
+          "module": "225444",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 31 March 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 8 tanggal: 25-03-2022",
+          "module": "225452",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 1 April 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 9 tanggal: 31-03-2022",
+          "module": "225459",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 7 April 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 10 tanggal: 01-04-2022",
+          "module": "225467",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 8 April 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 11 tanggal: 07-04-2022",
+          "module": "225474",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 14 April 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 12 tanggal: 08-04-2022",
+          "module": "225482",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 15 April 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 13 tanggal:  14-04-2022",
+          "module": "225489",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 21 April 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 14 tanggal: 15-04-2022",
+          "module": "225497",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 22 April 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 15 tanggal: 12-05-2022",
+          "module": "225505",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 19 May 2022, 12:00 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 16 tanggal: 13-05-2022",
+          "module": "225512",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Elemen input",
+              "subscribe": true
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 17 tanggal: 19-05-2022",
+          "module": "225519",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": [
+            {
+              "name": "Case Sensitivity",
+              "subscribe": false
+            }
+          ]
+        },
+        {
+          "name": "Forum Pertemuan 18 tanggal: 20-05-2022",
+          "module": "225526",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available from 20 May 2022, 10:20 AM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 19 tanggal: DD-MM-YYYY",
+          "module": "225533",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 20 tanggal: DD-MM-YYYY",
+          "module": "225540",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 21 tanggal: DD-MM-YYYY",
+          "module": "225547",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 22 tanggal: DD-MM-YYYY",
+          "module": "225554",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 23 tanggal: DD-MM-YYYY",
+          "module": "225561",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 24 tanggal: DD-MM-YYYY",
+          "module": "225568",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 25 tanggal: DD-MM-YYYY",
+          "module": "225575",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 26 tanggal: DD-MM-YYYY",
+          "module": "225582",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 27 tanggal: DD-MM-YYYY",
+          "module": "225589",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 28 tanggal: DD-MM-YYYY",
+          "module": "225596",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        }
+      ]
+    },
+    {
+      "category": "FIK 20212",
+      "shortName": "A12.66405-20212-6401-6402",
+      "fullName": "[20212] PROBABILITAS DAN STATISTIKA",
+      "idMatkul": "7287",
+      "forums": [
+        {
+          "name": "Forum Pertemuan 1 tanggal: 7 Maret 2022",
+          "module": "253328",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 13 March 2022, 12:30 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 2 tanggal: 7 Maret 2022",
+          "module": "253336",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 13 March 2022, 12:30 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 3 tanggal: 14 Maret 2022",
+          "module": "253344",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 20 March 2022, 12:30 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 4 tanggal: 21 Maret 2022",
+          "module": "253351",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 27 March 2022, 12:30 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 5 tanggal:  25 Maret 2022",
+          "module": "253358",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 3 April 2022, 12:30 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 6 tanggal: 4 April 2022",
+          "module": "253365",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 10 April 2022, 12:30 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 7 tanggal: 11 April 2022",
+          "module": "253372",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 17 April 2022, 12:30 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 8 tanggal: 9 Mei 2022",
+          "module": "253380",
+          "isRestricted": true,
+          "msgRestricted": "Restricted Available until 15 May 2022, 12:30 PM",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 9 tanggal: DD-MM-YYYY",
+          "module": "253387",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 10 tanggal: DD-MM-YYYY",
+          "module": "253394",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 11 tanggal: DD-MM-YYYY",
+          "module": "253401",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 12 tanggal: DD-MM-YYYY",
+          "module": "253408",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 13 tanggal:  DD-MM-YYYY",
+          "module": "253415",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        },
+        {
+          "name": "Forum Pertemuan 14 tanggal: DD-MM-YYYY",
+          "module": "253422",
+          "isRestricted": false,
+          "msgRestricted": "Tidak Ketat (Restrict)",
+          "discus": []
+        }
+      ]
+    }
+  ]
+}
