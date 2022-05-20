@@ -90,7 +90,7 @@ async function getForum(page, idMatkul) {
 
 async function getDiscus(page, module) {
   console.info("Load Discus");
-  await waitTillHTMLRendered(page);
+  // await waitTillHTMLRendered(page);
   await page.goto(`https://kulino.dinus.ac.id/mod/forum/view.php?id=${module}`);
   const result = await page.evaluate(() => {
     const discus = [];
