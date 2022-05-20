@@ -30,9 +30,34 @@ getData()
     console.error(error);
   });
 
-function cardMatkul(category, shortName, fullName, forums) {
+function cardMatkul(category, shortName, fullName, forums, index) {
   let result = "";
-  result += `<div class="card text-center col-md-3 mb-4">`;
+  result += `<div class="col-md-3 mb-4">`;
+  switch (fullName) {
+    case "[20212] ANALISA DAN PERANCANGAN SISTEM ...":
+      result += `<div class="card text-white bg-primary text-center">`;
+      break;
+    case "[20212] INTERAKSI MANUSIA DAN KOMPUTER":
+    case "[20212] ETIKA PROFESI":
+      result += `<div class="card text-white bg-secondary text-center">`;
+      break;
+    case "[20212] PEMROGRAMAN BERORIENTASI OBYEK":
+      result += `<div class="card text-white bg-dark text-center">`;
+      break;
+    case "[20212] PEMROGRAMAN WEB":
+      result += `<div class="card text-white bg-success text-center">`;
+      break;
+    case "[20212] PROBABILITAS DAN STATISTIKA":
+    case "[20212] Dasar Kewirausahaan":
+      result += `<div class="card text-dark bg-light text-center">`;
+      break;
+    case "[20212] MANAJEMEN RANTAI PASOK":
+      result += `<div class="card text-dark bg-warning text-center">`;
+      break;
+    default:
+      result += `<div class="card  text-center">`;
+      break;
+  }
   result += `<div class="card-header">${category}</div>`;
   result += `<div class="card-body">`;
   result += `<h5 class="card-title">${fullName}</h5>`;
@@ -57,7 +82,8 @@ function cardMatkul(category, shortName, fullName, forums) {
 
   //   result += `<a href="#" class="btn btn-primary">Go somewhere</a>`;
   result += `</div>`;
-  result += `<div class="card-footer text-muted">${forums.length} | ${dataForum.amountUnSubscribe}</div>`;
+  result += `<div class="card-footer">${forums.length} | ${dataForum.amountUnSubscribe}</div>`;
+  result += `</div>`;
   result += `</div>`;
   return result;
 }
