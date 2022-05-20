@@ -2,6 +2,7 @@ import { kulino } from "./crawling/Kulino.js";
 import { userFarhan } from "./config.js";
 import { writeFileSync } from "fs";
 
+// Ubah disini
 await kulinoSinkronDatas(userFarhan.username, userFarhan.password);
 
 async function kulinoSinkronDatas(username, password) {
@@ -9,6 +10,7 @@ async function kulinoSinkronDatas(username, password) {
 
   try {
     writeFileSync(`files/${username}.json`, JSON.stringify(theDatas, null, 2), "utf8");
+    writeFileSync(`files/user.json`, JSON.stringify(theDatas, null, 2), "utf8");
     console.log("Data successfully saved to disk");
     return "Successfully";
   } catch (error) {

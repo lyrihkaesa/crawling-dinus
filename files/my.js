@@ -2,7 +2,7 @@ async function getData() {
   // const requestURL = "https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json";
   // const request = new Request(requestURL);
 
-  const response = await fetch("./files/farhan.json");
+  const response = await fetch("./files/user.json");
   if (response.status !== 200) {
     throw new Error("cannot fetch data");
   }
